@@ -1,0 +1,14 @@
+{
+  "name": "url-to-image",
+  "version": "0.0.0",
+  "description": "url-to-image",
+  "main": "app.js",
+  "author": {
+    "name": "gregory.harris"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
